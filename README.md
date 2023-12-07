@@ -1,1 +1,1 @@
-# Proyectos y Evidencias Trabajados durante el curso de Desarrollo de Software (ICETEX)
+# Proyectos y Evidencias Trabajadas durante el curso de Desarrollo de Software (ICETEX)
