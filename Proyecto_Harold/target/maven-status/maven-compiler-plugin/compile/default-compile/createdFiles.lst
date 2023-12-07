@@ -1,0 +1,16 @@
+edu\udea\financial\system\entities\Company.class
+edu\udea\financial\system\controllers\HomeController.class
+edu\udea\financial\system\repositories\PrincipalUserRepository.class
+edu\udea\financial\system\services\CompanyService.class
+edu\udea\financial\system\controllers\FinancialTransactionController.class
+edu\udea\financial\system\repositories\SecondaryUserRepository.class
+edu\udea\financial\system\entities\FinancialTransaction$Type.class
+edu\udea\financial\system\entities\FinancialTransaction.class
+edu\udea\financial\system\controllers\UserController.class
+edu\udea\financial\system\repositories\FinancialTransactionRepository.class
+edu\udea\financial\system\FinancialSystemApplication.class
+edu\udea\financial\system\entities\users\User.class
+edu\udea\financial\system\services\FinancialTransactionService.class
+edu\udea\financial\system\repositories\CompanyRepository.class
+edu\udea\financial\system\controllers\CompanyController.class
+edu\udea\financial\system\SecurityConfig.class
