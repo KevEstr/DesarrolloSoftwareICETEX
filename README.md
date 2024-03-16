@@ -1,1 +1,2 @@
 # Evidencias y proyectos trabajados como tutor durante el curso de Desarrollo de Software perteneciente a Mintic - ICETEX
+Se tienen parte de todos las actividades que se realizaron con los estudiantes con fines de enseñanza y manipulación de Java, además de pequeños proyectos haciendo uso de Springboot, base de datos y front con html y css. Por último, se añadieron las diapositivas con la teoria trabajada en clase. 
